@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.messages {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    color: black;
+}
